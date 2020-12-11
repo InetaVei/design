@@ -1,0 +1,22 @@
+body {
+    background-color: #D5E6EE;
+}
+
+     .top-row {
+    display: inline-block;
+    width: 100%;
+    background-color: yellow;
+    text-align: center;
+}
+
+     .left-side {
+    display: inline-block;
+    width: 100%;
+    background-color: pink;
+}
+
+     .right-side {
+    display: inline-block;
+    width: 100%;
+    background-color: blue;
+}
