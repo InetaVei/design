@@ -1,0 +1,23 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+ .container {
+     display: grid;
+     grid-template-columns: 300px 700px;
+     padding: 30px 30px;
+ }
+ 
+.container > .left {
+    display: inline-block;
+    width: 40%;
+    float: left;
+    background-color: pink;
+}
+
+.container > .right {
+    display: inline-block;
+    width: 60%;
+    float: right;
+    background-color: yellow;
+}
