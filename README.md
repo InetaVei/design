@@ -3,7 +3,7 @@
 
 This project is for educational purposes only.
 
-Site published at https://inetavei.github.io/design/
+Site published at (not done yet) https://inetavei.github.io/design/
 
 Design: [Design](https://image.freepik.com/free-vector/vector-web-site-template-design-learning-course-online-education-school-landing-page-website-mobile-development_88813-18.jpg)
 
