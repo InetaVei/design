@@ -1,4 +1,15 @@
-https://image.freepik.com/free-vector/vector-web-site-template-design-learning-course-online-education-school-landing-page-website-mobile-development_88813-18.jpg
+# Design
+### My website project
 
+This project is for educational purposes only.
 
-how it's looks now: https://inetavei.github.io/design/
+Site published at https://inetavei.github.io/design/
+
+Design: [Design](https://image.freepik.com/free-vector/vector-web-site-template-design-learning-course-online-education-school-landing-page-website-mobile-development_88813-18.jpg)
+
+## Project features
+- css
+- html
+
+## Authors
+[Ineta](https://github.com/InetaVei)
