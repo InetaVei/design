@@ -1,12 +1,69 @@
 /* basic */
 .bg-main-color {
-    background-color: #D4E5ED;
+    background-color: white;
 
 }
 /* logo */
 
 /* nuorodos */
+nav {
+    display:inline-block;
+    float: right;
+}
+nav > a {
+    display: inline-block;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 9px;
+    float: left;
+    color: black;
+}
 
 /* tekstas */
+h2 {
+    display: inline-block;
+    width: 100;
+    float: left;
+    margin-top: 60px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+p {
+    display: inline-block;
+    width: 100;
+    float: left;
+    font-size: 13px;
+    margin-top: 20px;
+}
 
+.left > a {
+    display: inline-block;
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 60px;
+    text-decoration: none;
+    font-size: 13px;
+    color: black;
+    border: 1px solid;
+    border-radius: 8%;
+    background-color: #5366DE;
+    color:white;
+    padding: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
 /* nuotrauka */
+.img-right {
+    display: inline-block;
+    width: 100%;
+    padding-top: 30px;
+    background-color: white;
+    text-align: center;
+    margin-right: 50px;
+}
+  
