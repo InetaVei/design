@@ -1,10 +1,8 @@
 /* basic */
 .bg-main-color {
     background-color: white;
-
 }
 /* logo */
-
 /* nuorodos */
 nav {
     display:inline-block;
@@ -40,6 +38,7 @@ p {
     font-size: 13px;
     margin-top: 20px;
 }
+/* NUORODOS */
 
 .left > a {
     display: inline-block;
@@ -56,6 +55,7 @@ p {
     padding: 6px;
     padding-left: 10px;
     padding-right: 10px;
+
 }
 /* nuotrauka */
 .img-right {
